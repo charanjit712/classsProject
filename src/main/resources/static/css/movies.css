@@ -1,0 +1,22 @@
+th, td {
+    padding: 16px;
+}
+
+.full-width {
+    width: 100%;
+}
+
+.nav-bar {
+    display: flex;
+    flex-direction: row;
+}
+
+.nav-item {
+    padding: 16px;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+p#id{
+    visibility: hidden;
+}
